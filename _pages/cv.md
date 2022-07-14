@@ -16,36 +16,56 @@ Education
 
 Research Experience
 ======
-* Fall 2021 - Present: Postdoctoral Fellow in Brain-Machine Interfaces
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 - Present: Postdoctoral Fellow in Brain-Machine Interfaces 
+  * Cleveland Clinic, Dept of Neurosciences (PI - Dawn Taylor)
+  * Elucidating the neural code related to co-contration in upper limb movements for use with functional electrical stimulation (FES)
+  *  Evaluating real-time decoders in non-human primate models
+  *  Optimizing the pre-surgical planning and therapeutic parameters of deep brain stimulation (DBS)
+  *  Creating physiologically-realistic biomechanical models of upper limb movement during FES
 
 * Summer 2016 - Summer 2021: Graduate Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of Kentucky, Neural Systems Lab (PI - Sridhar Sunderam)
+  * Explored optimal methods to promote motor rehabilitation with brain-machine interfaces using motor effort
+  * Constructed algorithms based on feedback from recording devices such as EEG, EMG, force dynamometers
+  * Designed protocols for clinical and non-clinical human studies
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017: Graduate Teaching Assistant
+  * University of Kentucky
+  * Taught (2) courses for first-year students in the College of Engineering
+  * Led students through projects that applied Arduinos, basic instrumentation, and MATLAB programming towards solving real-life problems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Research Intern
+  * Acclerated Rehabilitation Technologies/Washington U. in STL
+  * Programmed in MATLAB for real-time and offline signal processing, data displays, and GUIs
+  * Incorporated signal processing for off-the-shelf motion sensors to construct a rehabilitation software program
+  * Worked with stakeholders to establish and integrate meaningful design metrics
+  * Conducted research quantifying biomechanics of patients with neuromuscular disorders
+
+* 2014 (all 12 months): Development Engineering Co-op
+  * Zimmer
+  * Designed, developed, and tested implants and instruments related to bone fracture fixation
+  * Generated prototype models with CAD software to evaluate new design concepts
+  * Constructed comprehensive protocols for testing/analyzing the product
+
+* Summer 2013: New Product Development Intern
+  * Transposagen Biopharmaceuticals 
+  * Collaborated with scientists on the development of new genetic engineering technologies
+  * Assisted vice president of business development on business trips to present seminars on products and services
+  * Participated in weekly meetings with laboratory scientists and business development specialists
+  * Led videoconferences with global clients
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Biosignal Analysis
+* Invasive and non-invasive recording of brain activity
+  * Spike sorting
+  * Online spatial filtering
+  * Scalp EEG preparation
+  * Noise and low SNR troubleshooting
+* EMG acquisition and analysis
+* ADD MORE
 
 Publications
 ======
