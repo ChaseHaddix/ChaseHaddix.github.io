@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chase Haddix, PhD"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chase"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chase Haddix"
+  name             : "Chase Haddix, PhD"
   avatar           : "Haddix_Chase_126098L.jpg"
   bio              : "Postdoc in BMIs at Cleveland Clinic"
   location         : "Ohio"
