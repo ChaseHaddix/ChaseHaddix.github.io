@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Biomedical Engineering, Purdue University, 2016
+* PhD in Biomedical Engineering, University of Kentucky, 2021
+
+Research Experience
+======
+* Fall 2021 - Present: Postdoctoral Fellow in Brain-Machine Interfaces
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2016 - Summer 2021: Graduate Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
 Work experience
 ======
