@@ -13,7 +13,7 @@ Welcome to my page! Here, I aim to do three things:
 2. Showcase my research projects and work experiences
 3. Educate on all things neurotechnology
 
-Use the tabs at the top to naivgate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
+Use the tabs at the top to navigate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
 
 First off, what is neural engineering?
 ======
