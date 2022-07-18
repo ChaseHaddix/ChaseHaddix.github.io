@@ -15,21 +15,15 @@ Welcome to my page! Here, I aim to do three things:
 
 Use the tabs at the top to naivgate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
 
-First Off, What is Neural Engineering?
+First off, what is neural engineering?
 ======
 Neural engineering, subfield of biomedical engineering, seeks to to understand, repair, replace, or enhance neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
 
-
-Edit everything below this 
+Why would you want to work in this field? 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+From the definition above, it becomes clear you must have a strong background in many different areas to be a successful engineer. This requires a tough courseload in college. But, if this subspecialty of biomedical engineering is for you, it can be higly rewarding. Biomedical engineering has consistently been rated among the [top jobs for growth, pay, and satisfaction](https://money.cnn.com/pf/best-jobs/2013/snapshots/1.html) and neural engineering is no exception. The combination of how much there is still to learn about the nervous system coupled with the rate of technological advancements means this burgeoning field will certainly grow for decades to come. It is an exciting prospect to be at a forefront of medical innovation and improvement of outcomes for diseases and disorders that have long been considered permanently debilitating. 
 
-Site-wide configuration
+My personal story
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
