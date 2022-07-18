@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! Here, you will find a collection my of scientific works and other professional achievements over the past decade. 
+Welcome to my page! Here, I aim to do three things:
+1. Tell a little about myself
+2. Showcase my research projects and work experiences
+3. Educate on all things neurotechnology
 
-Check out the Blog tab to learn more about neurotechnology and what neural engineers do! Enjoy! 
+Use the tabs at the top to naivgate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
 
-What is Neural Engineering?
+First Off, What is Neural Engineering?
 ======
 Neural engineering, subfield of biomedical engineering, seeks to to understand, repair, replace, or enhance neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
 
