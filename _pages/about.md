@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! Here, you will find a collection of scientific projects I have collaborated on and other professional achievements over the past decade. 
+Welcome to my page! Here, you will find a collection my of scientific works and other professional achievements over the past decade. 
 
-In addition, I have several blog posts dedicated to increasing understanding and interest in the field of neuroengineering! Please use to tabs at the top to navigate to the different pages. Enjoy! 
+Check out the Blog tab to learn more about neurotechnology and what neural engineers do! Enjoy! 
 
 What is Neural Engineering?
 ======
