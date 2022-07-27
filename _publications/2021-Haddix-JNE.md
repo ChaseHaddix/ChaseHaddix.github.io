@@ -1,7 +1,7 @@
 ---
 title: "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm"
 collection: publications
-permalink: /publication/2009-10-01-JNE-Haddix
+permalink: /publication/2021-9-01-JNE-Haddix
 excerpt: 'This paper is about using EEG to increase command signals for Brain-machine interfaces'
 date: 2021-9-01
 venue: 'Journal of Neural Engineering'
