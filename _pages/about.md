@@ -15,7 +15,7 @@ Welcome to my page! Here, I aim to do three things:
 
 Use the tabs at the top to navigate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
 
-[First off, what is neural engineering?!](/images/HandDrawnBrain.jpg)
+![First off, what is neural engineering?!](/images/HandDrawnBrain.jpg)
 ======
 Neural engineering, subfield of biomedical engineering, seeks to to understand, repair, replace, or enhance neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
 
