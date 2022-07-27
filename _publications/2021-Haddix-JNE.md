@@ -2,11 +2,11 @@
 title: "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm"
 collection: publications
 permalink: /publication/2009-10-01-JNE-Haddix
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about using EEG to increase command signals for Brain-machine interfaces'
+date: 2021-9-01
+venue: 'Journal of Neural Engineering'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1741-2552/ac23c0/pdf'
+citation: 'Haddix et al. (2021). "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm." <i>Journal of Neural Engineering</i>. 18.'
 ---
 Brain–computer interfaces (BCIs) show promise as a direct line of communication between the brain and the outside world that could benefit those with impaired motor function. But the commands available for BCI operation are often limited by the ability of the decoder to differentiate between the many distinct motor or cognitive tasks that can be visualized or attempted. 
 Here, we attempt to decode the degree of effort in a specific movement task to produce a graded and more flexible command signal with 14 healthy human subjects
