@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "Lexington, Kentucky"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught (2) courses for first-year students in the College of Engineering. I led students through projects that applied Arduinos, basic instrumentation, and MATLAB programming towards solving real-life problems. In addition to building foundations for pursuing a career in engineering, this class was meant to inspire students to continue their studies into a specific engineering discipline. I shared my personal experiences as an engineer to help inspire students. 
 
 Heading 1
 ======
