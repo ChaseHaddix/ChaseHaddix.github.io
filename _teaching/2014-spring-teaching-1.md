@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2017-FYE
 venue: "University of Kentucky, First-Year Engineering"
 date: 2017-09-01
 location: "Lexington, Kentucky"
