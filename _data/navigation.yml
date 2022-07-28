@@ -6,17 +6,17 @@ main:
   - title: "Publications"
     url: /publications/      
     
+    - title: "CV"
+    url: /cv/
+  
   - title: "Outreach"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
-    
+    - title: "Competencies"
+    url: /teaching/ 
+  
   - title: "Talks"
     url: /talks/ 
-    
-  - title: "Competencies"
-    url: /teaching/ 
     
   - title: "Guide"
     url: /markdown/
