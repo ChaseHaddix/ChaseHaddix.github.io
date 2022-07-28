@@ -19,7 +19,7 @@ Use the tabs at the top to navigate to the different pages. Please, don't hesita
 First off, what is neural engineering?
 ======
 ![First off, what is neural engineering?!](/images/HandDrawnBrain.jpg)
-Think about how you are able to scroll down this page. What controls your muscles? To extend this even further, what controls your desire to scroll down this page? The answer is the nervous system - the brain, spinal cord, and peripheral nerves that extend throughout your body. 
+Think about how you are able to scroll down this page. What controls your muscles? To extend this even further, what controls your desire to scroll down this page? The answer is the nervous system - the complex network involving your brain, spinal cord, and peripheral nerves. 
 
 Neural engineering, subfield of biomedical engineering, seeks to to understand, repair, replace, or enhance these neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
 
