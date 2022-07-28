@@ -1,15 +1,15 @@
 ---
 title: 'What is EEG?'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+date: 2021-09-10
+permalink: /posts/2021/09/blog-post-3/
 tags:
   - EEG
 
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+You may have seen those headcaps with dozens of times coming from them on TV or in a hospital. But how does it work? 
 
-Headings are cool
+Electroencephalography
 ======
 
 You can have many headings
