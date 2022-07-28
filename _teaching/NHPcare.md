@@ -1,8 +1,8 @@
 ---
 title: "Non-Human Primate Care"
 collection: teaching
-type: ""
-permalink: /teaching/2017-FYE
+type: "Rhesus Macque"
+permalink: /teaching/NHP
 venue: "Cleveland Clinic"
 date: 
 location: "Cleveland, Ohio"
