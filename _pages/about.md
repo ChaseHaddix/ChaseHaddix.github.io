@@ -35,3 +35,4 @@ My journey from curious young student to emergent research engineer involved man
 
 Now, I am Postdoctoral Fellow in Brain-Machine Interfaces in the department of Neurosciences at the Cleveland Clinic. Our mission is to combat movement disorders by decoding brain intent and reanimating paralyzed limbs. More on this in the Blog section!
 
+![Where I've Worked!](/images/PlacesIveWorked.png)
