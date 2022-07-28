@@ -21,7 +21,7 @@ First off, what is neural engineering?
 ![First off, what is neural engineering?!](/images/HandDrawnBrain.jpg)
 Think about how you are able to scroll down this page. What controls your muscles? To extend this even further, what controls your desire to scroll down this page? The answer is the nervous system - the complex network involving your brain, spinal cord, and peripheral nerves. 
 
-Neural engineering, a subfield of biomedical engineering, seeks to to understand, repair, replace, or enhance these neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
+Neural engineering, a subfield of biomedical engineering, seeks to to _understand_, _repair_, _replace_, or _enhance_ these neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
 
 Why should anyone want to be a "nervous system engineer"? 
 ======
@@ -29,7 +29,7 @@ From the definition above, it becomes clear you must have a strong background in
 
 It is an exciting prospect to be at a forefront of medical innovation and improvement of outcomes for diseases and disorders that have long been considered permanently debilitating. 
 
-My personal story
+My story
 ------
 My journey from curious young student to emergent research engineer involved many steps along the way. I learned early on that a solid foundation in science and mathematics would be crucial for success inside and outside the classroom. My biomedical engineering studies took me Purdue University and then to graduate school at the University of Kentucky. During that time, my formal studies were complemented with internships focused on biotechnology, cutting-edge research, and pioneering rehabilitation projects. 
 
