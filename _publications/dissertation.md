@@ -1,15 +1,19 @@
 ---
-title: "Upper Extremity Movement Reliability and Validity of the Kinect v2"
+title: "Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications"
 collection: publications
-permalink: /publication/2018-1-2-Reither
-excerpt: 'This paper is about how an inexpensive gaming system can be used in rehabilitation to track movement'
-date: 2018-1-02
-venue: 'Disability and Rehabilitation: Assistive Technology'
+permalink: /publication/2021-11-8-Haddix
+excerpt: 'This is my doctoral dissertation. **Note** It is under embargo until Nov. 08, 2023. Please contact me directly if you are interested in a copy'
+date: 2021-11-08
+venue: 'University of Kentucky'
 paperurl: 'https://www.tandfonline.com/doi/pdf/10.1080/17483107.2016.1278473'
-citation: 'Reither et al. (2018). &quot;Upper Extremity Movement Reliability and Validity of the Kinect v2.&quot; <i>Disability and Rehabilitation: Assistive Technology</i>. 1(3).'
+citation: 'Haddix. (2021). &quot;Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications.&quot; <i>Theses and Dissertations--Biomedical Engineering</i>. 74.'
 ---
-Studies have shown that marker-less motion detection systems, such as the first generation Kinect (Kinect 1), have good reliability and potential for clinical application. However, few studies have investigated the validity and reliability of the Kinect 2 for upper extremitymotion. This investigation compared reliability and validity among the Kinect 1, Kinect 2 and a videomotion capture (VMC) system for upper extremity movements. Results indicated good reliability for both Kinects within a day; results between days were inconclusive for both devices due to the inability to exactly repeat the desired movements. Range of motion (ROM) magnitudes for both Kinects were different from the VMC, yet patterns of motion were very highly correlated for both devices. Simple transformations of Kinect data could bring magnitudes in line with those of the VMC,allowing the Kinects to be used in a clinical setting.The Kinect 2 provides a more cost effective option compared to the VMC. Additionally, the Kinect is more portable, requires less time to set-up, and takes up less space, thus increasing its overall usability compared to the VMC.
+The primary aim of this dissertation is to investigate whether graded effort associated with a movement task can be distinguished from scalp EEG recordings. This endeavor is motivated by the need for numerous, natural, and intuitive command signals in brain-controlled assistive devices, such as BCIs, to achieve fine control. Measurable changes in brain activity during a graded cognitive task can serve as commands that bridge the gap between intent and fine control and thereby play a vital role in therapeutic protocols aimed at recovery of function.
 
-[Download paper here](https://www.tandfonline.com/doi/pdf/10.1080/17483107.2016.1278473)
+A novel protocol was first established that guides subjects through a graded movement task while providing immediate visual feedback. First in a healthy cohort and then in individuals with chronic stroke, I tested the ability of the protocol to elicit and model levels of effort while the subject attempts the graded movement task. After a wide search into features of the electroencephalogram (EEG) that may highlight the different levels of effort, I arrived at an 8 – 30 Hz rhythm that was differentially attenuated according to the movement. Applying common modeling techniques led to the ability to predict these gradations from EEG with greater than chance accuracy. A forward-looking study concludes this dissertation in which the bridge between mental intent and feedback is closed with real-time prediction of effort from the EEG.
 
-Recommended citation: Reither et al. (2018). "Upper Extremity Movement Reliability and Validity of the Kinect v2." <i>Disability and Rehabilitation: Assistive Technology</i>. 13(1).
+This work suggests a model that predicts graded movement in healthy and clinical populations is feasible. The ability to connect intent and execution in those who may have lost function can play a vital role in therapeutic programs aimed at recovery of function and independence.
+
+[Download paper here](https://uknowledge.uky.edu/cbme_etds/74/)
+
+Recommended citation: Haddix. (2021). "Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications." <i>Theses and Dissertations--Biomedical Engineering</i>. 74.
