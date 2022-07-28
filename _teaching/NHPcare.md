@@ -4,7 +4,7 @@ collection: teaching
 type: "Rhesus Macque"
 permalink: /teaching/NHP
 venue: "Cleveland Clinic"
-date: 2021
+date: 2021-09-10
 location: "Cleveland, Ohio"
 ---
 
