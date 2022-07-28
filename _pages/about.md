@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 Welcome to my page! Here, I aim to do three things:
-1. Tell a little about myself
-2. Showcase my research projects and work experiences
-3. Educate on all things neurotechnology
+1. **Educate on all things neurotechnology**
+2. **Tell a little about myself**
+3. **Showcase my research projects and work experiences**
+
 
 Use the tabs at the top to navigate to the different pages. Please, don't hesitate to reach out through my social media on the left. Enjoy!
 
