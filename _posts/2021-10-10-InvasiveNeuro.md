@@ -7,7 +7,7 @@ tags:
   - Neuroimaging
 ---
 
-Sometime we need to go inside the skull to figure out how the brain is behaving. While surgery is needed, the signals we get can be very clear.
+Sometime we need to go inside the skull to figure out how the brain is behaving. While surgery is needed, the signals can be a lot clearer.
 
 
 Levels of Invasiveness
