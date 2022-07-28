@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my page! Here, I aim to do three things:
-1. **Educate on all things neurotechnology**
+1. **Educate on all things neuroscience and engineering**
 2. **Tell a little about myself**
 3. **Showcase my research projects and work experiences**
 
