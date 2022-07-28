@@ -4,7 +4,7 @@ collection: teaching
 type: "Something"
 permalink: /teaching/skill3
 venue: "Cleveland Clinic"
-date: 2021
+date: 2021-09-12
 location: "Cleveland, Ohio"
 ---
 
