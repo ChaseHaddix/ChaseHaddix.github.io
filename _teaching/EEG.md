@@ -1,11 +1,11 @@
 ---
-title: "Skill2"
+title: "EEG Acquisition and Analysis"
 collection: teaching
-type: "Something"
-permalink: /teaching/skill2
+type: "EEG"
+permalink: /teaching/EEG
 venue: "Cleveland Clinic"
-date: 2021-09-11
-location: "Cleveland, Ohio"
+date: 2016-05-23
+location: "Lexington, KY"
 ---
 
 Replace with info about skill
