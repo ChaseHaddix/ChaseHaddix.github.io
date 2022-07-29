@@ -44,7 +44,7 @@ Work experience
   * Conducted research quantifying biomechanics of patients with neuromuscular disorders
 
 * 2014 (all 12 months): Development Engineering Co-op
-  * Zimmer
+  * Zimmer (now Zimmer Biomet)
   * Designed, developed, and tested implants and instruments related to bone fracture fixation
   * Generated prototype models with CAD software to evaluate new design concepts
   * Constructed comprehensive protocols for testing/analyzing the product
