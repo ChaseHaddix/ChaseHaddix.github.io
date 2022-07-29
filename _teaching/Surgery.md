@@ -1,10 +1,10 @@
 ---
-title: "Skill10"
+title: "NHP Surgery"
 collection: teaching
-type: "Something"
-permalink: /teaching/skill10
+type: "Invasive Lead Implantation and Ressection"
+permalink: /teaching/Surgery
 venue: "Cleveland Clinic"
-date: 2018-09-15
+date: 2022-07-25
 location: "Cleveland, Ohio"
 ---
 
