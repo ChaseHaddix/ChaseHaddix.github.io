@@ -3,7 +3,7 @@ title: "EEG Acquisition and Analysis"
 collection: teaching
 type: "EEG"
 permalink: /teaching/EEG
-venue: "Cleveland Clinic"
+venue: "University of Kentucky"
 date: 2016-05-23
 location: "Lexington, KY"
 ---
