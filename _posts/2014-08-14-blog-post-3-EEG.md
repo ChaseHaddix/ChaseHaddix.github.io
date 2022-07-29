@@ -33,7 +33,12 @@ How does it work?
 
 What are brain waves?
 ======
-Brain waves, or brain rhythms, are ways to describe the EEG trace. 
+Brain waves, or brain rhythms, are ways to describe the EEG trace. At first glance, an EEG may seem like a chaotic stream of data lacking any meaningful information. However, signal processing techniques in both the time and frequency domains have been developed to illuminate subtle modulations related to movement. 
+
+As mentioned, EEG electrodes register the summed influence of a large population of neurons. The rhythmic fluctuations in local potentials produce what is known as brain oscillations. EEG registers a blend of different frequency changes over time. Oscillatory behavior reflects changes in cortical excitability. The behavior of a single neuron contributes little to the observed oscillation. Researchers analyzing EEG extract information from these properties via mathematical transforms. Temporal (time) and spectral (frequency) features can reveal information about underlying neuronal activity. It is for these reasons EEG is a suitable vehicle to investigate neuronal activation during voluntary movement. For more detail on how the raw EEG is turned into usable features, see the "Basics of Signal Processing" post.
+
+Certain oscillation frequencies, or brain rhythms, are of particular interest to movement research. The Rolandic mu (µ) rhythm exists as an 8-12 Hz oscillation and the central beta rhythm resides in the 13-30 Hz range. These frequency bands are strongest in electrodes placed near M1 and most visible during non-movement. During movement, activity in this region becomes desynchronized and the strength of these two bands is attenuated.
+
 
 
 Let's Recap 
