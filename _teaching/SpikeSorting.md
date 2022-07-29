@@ -1,10 +1,10 @@
 ---
-title: "Skill4"
+title: "Spike Sorting"
 collection: teaching
-type: "Something"
-permalink: /teaching/skill4
+type: "Single and Multi-Unit Analysis"
+permalink: /teaching/SpikeSorting
 venue: "Cleveland Clinic"
-date: 2021-09-14
+date: 2021-11-21
 location: "Cleveland, Ohio"
 ---
 
