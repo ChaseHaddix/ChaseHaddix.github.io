@@ -31,6 +31,10 @@ How does it work?
   
   Since an electrode is only able to pick up activity over a small part of the brain, dozens or even hundreds of electrodes are needed to tell the whole story about what is going on in the brain, or at least the cortical outer layer. 
 
+What are brain waves?
+======
+Brain waves, or brain rhythms, are ways to describe the EEG trace. 
+
 
 Let's Recap 
 ======
