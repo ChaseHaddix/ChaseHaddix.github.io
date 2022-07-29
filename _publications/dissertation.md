@@ -5,7 +5,7 @@ permalink: /publication/2021-11-8-Haddix
 excerpt: 'This is my doctoral dissertation. **Note** It is under embargo until Nov. 08, 2023. Please contact me directly if you are interested in a copy'
 date: 2021-11-08
 venue: 'University of Kentucky'
-paperurl: 'https://www.tandfonline.com/doi/pdf/10.1080/17483107.2016.1278473'
+paperurl: 'https://uknowledge.uky.edu/cbme_etds/74/'
 citation: 'Haddix. (2021). &quot;Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications.&quot; <i>Theses and Dissertations--Biomedical Engineering</i>. 74.'
 ---
 The primary aim of this dissertation is to investigate whether graded effort associated with a movement task can be distinguished from scalp EEG recordings. This endeavor is motivated by the need for numerous, natural, and intuitive command signals in brain-controlled assistive devices, such as BCIs, to achieve fine control. Measurable changes in brain activity during a graded cognitive task can serve as commands that bridge the gap between intent and fine control and thereby play a vital role in therapeutic protocols aimed at recovery of function.
