@@ -5,7 +5,7 @@ permalink: /posts/2012/08/FutureBCIs/
 tags:
   - BCIs
 ---
-What once seemed confined to Sci-Fi movies is now a reality, to a degree
+What once seemed confined to Sci-Fi movies is now a reality, to a degree...
 
 
 
