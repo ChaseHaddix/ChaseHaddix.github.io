@@ -8,12 +8,12 @@ main:
     
   - title: "CV"
     url: /cv/
-  
-  - title: "Outreach"
-    url: /portfolio/
     
   - title: "Competencies"
     url: /teaching/ 
+  
+  - title: "Outreach"
+    url: /portfolio/
   
   - title: "Talks"
     url: /talks/ 
