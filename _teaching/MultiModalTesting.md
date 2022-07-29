@@ -1,11 +1,11 @@
 ---
-title: "Skill11"
+title: "Multi-Modal Testing"
 collection: teaching
-type: "Something"
+type: "Simultaneous Data Acquistion of Multiple Biosignals "
 permalink: /teaching/skill11
-venue: "Cleveland Clinic"
+venue: "University of Kentucky"
 date: 2018-09-15
-location: "Cleveland, Ohio"
+location: "Lexington, KY"
 ---
 
 Replace with info about skill
