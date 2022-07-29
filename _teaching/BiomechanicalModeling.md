@@ -1,10 +1,10 @@
 ---
-title: "Skill3"
+title: "Biomechanical Modeling"
 collection: teaching
-type: "Something"
-permalink: /teaching/skill3
+type: "Computational Modeling of Limb Movement"
+permalink: /teaching/Biomechanical Modeling
 venue: "Cleveland Clinic"
-date: 2021-09-12
+date: 2022-02-07
 location: "Cleveland, Ohio"
 ---
 
