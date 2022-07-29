@@ -66,7 +66,8 @@ Skills
   * Noise and low SNR troubleshooting
 * EMG acquisition and analysis
 * Biomechanical/FES modeling
-**See 'Competencies' tab for more detail
+
+**[See 'Competencies' tab for more detail](https://chasehaddix.github.io/teaching/)**
 
 Publications
 ======
