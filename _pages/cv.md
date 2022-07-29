@@ -65,7 +65,8 @@ Skills
   * Scalp EEG preparation
   * Noise and low SNR troubleshooting
 * EMG acquisition and analysis
-* ADD MORE
+* Biomechanical/FES modeling
+**See 'Competencies' tab for more detail
 
 Publications
 ======
