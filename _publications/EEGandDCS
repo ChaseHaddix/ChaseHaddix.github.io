@@ -1,0 +1,15 @@
+---
+title: "Trial measurement of movement-related cortical dynamics using electroencephalography and diffuse correlation spectroscopy"
+collection: publications
+permalink: /publication/2017-6-17-EEGDCS
+excerpt: 'This paper is about how combining measurements of electrical brain activity and cerebral blood flow can give better insight into brain dynamics'
+date: 2017-06-17
+venue: '2017 22nd International Conference on Methods and Models in Automation and Robotics'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8046903'
+citation: 'Haddix et al. (2019). &quot;Trial measurement of movement-related cortical dynamics using electroencephalography and diffuse correlation spectroscopy.&quot; <i>2017 22nd International Conference on Methods and Models in Automation and Robotics</i>. 1(2).'
+---
+To better characterize movement-related neurophysiological change, the authors propose to measure not only neural activity through the electroencephalogram (EEG) but also cerebral blood flow (CBF) using a new technology, near-infrared diffuse correlation spectroscopy (DCS). A preliminary trial is described, in which EEG, DCS, and exerted force were simultaneously recorded during a cue-triggered hand grip task. Eight channels of EEG were acquired from frontal, central, and occipital regions, and DCS signals were collected from locations over frontal and motor cortex. Event-related desynchronization (ERD) was observed at the onset of hand movement and lasted until movement ceased. EEG from the motor area showed a significant ERD in the 8-13 Hz mu band (p<;0.001). Mean CBF increased during the task by 6.8 % (p<;0.001) in the motor location and by 4.5 % (p<;0.001) in the frontal location, respectively. These preliminary observations suggest that a combination of electrical and optical measurements may provide a more complete characterization of brain dynamics related to movement. A broader study is required to explore the potential benefit of these combined measurements when used as command signals for brain-computer interfaces.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8046903)
+
+Recommended citation: Haddix et al. (2017). "Trial measurement of movement-related cortical dynamics using electroencephalography and diffuse correlation spectroscopy." <i>2017 22nd International Conference on Methods and Models in Automation and Robotics</i>. 1(2).
