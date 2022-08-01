@@ -1,0 +1,15 @@
+---
+title: "Implementation of Low-Pass Fractional Filtering for the Purpose of Analysis of Electroencephalographic Signals"
+collection: publications
+permalink: /publication/2018-2-18-fracfilt
+excerpt: 'This paper is about how a novel redesign of EEG electrodes improves signal quality.'
+date: 2018-02-17
+venue: 'Non-Integer Order Calculus and its Applications: 9th International Conference on Non-Integer Order Calculus and Its Applications'
+paperurl: 'https://books.google.com/books?hl=en&lr=&id=fs5SDwAAQBAJ&oi=fnd&pg=PA63&dq=chase+haddix&ots=6Qruj6rSf8&sig=jEQWmG6I8si9rSGT67neUx37g54#v=onepage&q=chase%20haddix&f=false'
+citation: 'Haddix et al. (2018). &quot;Implementation of Low-Pass Fractional Filtering for the Purpose of Analysis of Electroencephalographic Signals.&quot; <i>Non-Integer Order Calculus and its Applications: 9th International Conference on Non-Integer Order Calculus and Its Applications</i>. 1(2).'
+---
+Implementation of fractional order filters is still a novel, but promising area in signal processing - in particular in analysis of biomedical data, such as inter alia electroencephalography (EEG), where large signal distortions may occur. One of the main challenges is the complexity of the EEG data. In this paper, potential applications of various low-pass fractional filters (Bi-fractional filtering) applied for the purpose of EEG analysis was presented. The authors tested two types (0.0013 and 0.13 order) of non-integer, low-pass filters. The promising results were compared with typical low-pass Butterworth filters. 
+
+[Download paper here](https://books.google.com/books?hl=en&lr=&id=fs5SDwAAQBAJ&oi=fnd&pg=PA63&dq=chase+haddix&ots=6Qruj6rSf8&sig=jEQWmG6I8si9rSGT67neUx37g54#v=onepage&q=chase%20haddix&f=false)
+
+Recommended citation: Haddix et al. (2018). "Implementation of Low-Pass Fractional Filtering for the Purpose of Analysis of Electroencephalographic Signals." <i>Non-Integer Order Calculus and its Applications: 9th International Conference on Non-Integer Order Calculus and Its Applications</i>. 1(2).
