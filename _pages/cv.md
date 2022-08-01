@@ -18,7 +18,7 @@ Research Experience
 ======
 * Fall 2021 - Present: Postdoctoral Fellow in Brain-Machine Interfaces 
   * Cleveland Clinic, Dept of Neurosciences (PI - Dawn Taylor)
-  * Elucidating the neural code related to co-contration in upper limb movements for use with functional electrical stimulation (FES)
+  * Elucidating the neural code related to co-contraction in upper limb movements for use with functional electrical stimulation (FES)
   *  Evaluating real-time decoders in non-human primate models
   *  Optimizing the pre-surgical planning and therapeutic parameters of deep brain stimulation (DBS)
   *  Creating physiologically-realistic biomechanical models of upper limb movement during FES
