@@ -1,0 +1,15 @@
+---
+title: "Noninvasive seizure prediction using autonomic measurements in patients with refractory epilepsy"
+collection: publications
+permalink: /publication/2018-7-18-tEEG
+excerpt: 'This paper is about how a novel redesign of EEG electrodes improves signal quality.'
+date: 2018-07-18
+venue: '2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8512785'
+citation: 'Al-Bakri et al. (2018). &quot;Noninvasive seizure prediction using autonomic measurements in patients with refractory epilepsy.&quot; <i>IEEE International Symposium on Signal Processing and Information Technology</i>. 2422-2425.'
+---
+There is resurgent interest in the role played by autonomic dysfunction in seizure generation. Advances in wearable sensors make it convenient to track many autonomic variables in patient populations. This study assesses peri-ictal changes in surrogate measures of autonomic activity for their predictive value in epilepsy patients. We simultaneously recorded fronto-central surface EEG and submental EMG to score vigilance state, intracranial EEG (iEEG) to compute several electrophysiological variables (EV), and measurements (heart rate, blood volume pulse, skin impedance, and skin temperature) relevant to autonomic function (AV) using a wrist-worn sensor from three patients. A naïve Bayes classifier was trained on these features and tested using five-fold cross- validation to determine whether preictal and interictal sleep (or wake) epochs could be distinguished from each other using either AV or EV features. Of 16 EV features, beta power, gamma power (30–45 Hz and 47–75 Hz), line length, and Teager energy showed significant differences for preictal versus interictal sleep (or wake) state in each patient (t test: p<0.001). At least one AV was significantly different in each patient for interictal and preictal sleep (or wake) segments (p<0.001). Using AV features, the classifier labeled preictal sleep epochs with 84% sensitivity, 79% specificity, and 64% kappa; and 78%, 80% and 55% respectively for preictal wake epochs. Using EV, the classifier labeled preictal sleep epochs with 69% sensitivity, 64% specificity, and 33% kappa; and 15%, 93% and 10% respectively for preictal wake epochs.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/8512785)
+
+Recommended citation: Al-Bakri et al. (2018). "Noninvasive seizure prediction using autonomic measurements in patients with refractory epilepsy." <i>2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society</i>. 2422-2425.
