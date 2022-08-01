@@ -58,15 +58,10 @@ Work experience
   
 Skills
 ======
-* Biosignal Analysis
-* Invasive and non-invasive recording of brain activity
-  * Spike sorting
-  * Online spatial filtering
-  * Scalp EEG preparation
-  * Noise and low SNR troubleshooting
-* EMG acquisition and analysis
-* Biomechanical/FES modeling
-
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 **[See 'Competencies' tab for more detail](https://chasehaddix.github.io/teaching/)**
 
 Publications
@@ -81,12 +76,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Update to pull from Outreach tab
