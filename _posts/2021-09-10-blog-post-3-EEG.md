@@ -12,7 +12,7 @@ You may have seen those headcaps with dozens of wires coming from them on TV or 
 Electroencephalography (EEG)
 ------
 
-What is it?
+## What is EEG?
 ======
 
   EEG is a way to measure the very tiny changes in the electric field surround your brain. Electrodes, or small pieces of conductive material such as metal, are placed on the scalp and these changes are picked up and carried down wires to be processed. To accept this, you first must understand why there is an electric field associated with your brain. Physiological processes (especially in your brain) involve the movement of ions from cell to cell. The best example of this is a neuron firing. Every time an action potential races down a neuron, a tiny electric field surrounds that neuron. For an incredibly thorough review of this topic, I suggest the popular book ["Electric Fields of the Brain" by Nunez & Srinivasan](https://brainmaster.com/software/pubs/brain/Nunez%202ed.pdf)
@@ -25,13 +25,13 @@ What is it?
 
 ![RamonyCajal!](/images/RamonYCajal.jpg)
 
-How does it work?
+## How does EEG work?
 ======
   The units of EEG measurement are in Volts. As with any voltage measurement, the potential difference is between a recording electrode and a reference electrode. Importantly, EEG is measured between two electrodes. Often times, the reference electrode is either on the forehead (thick skull) or ear lobe (far from brain). EEG leads feed into an amplifier, where the tiny voltages, usually on the nano-volt scale, are amplified before being converted from an analog signal (continuous) into a digital signal (discrete). Sample rates for EEG vary depending on application. The higher the rate, the closer you are to the analog/original signal. But at some costs, including a large amount of data to save. Typically, each EEG electrode/channel is saved at 125 to 1000 Hz, or samples per second. 
   
   Since an electrode is only able to pick up activity over a small part of the brain, dozens or even hundreds of electrodes are needed to tell the whole story about what is going on in the brain, or at least the cortical outer layer. 
 
-What are brain waves?
+## What are brain waves?
 ======
   Brain waves, or brain rhythms, are ways to describe the EEG trace. At first glance, an EEG may seem like a chaotic stream of data lacking any meaningful information. However, signal processing techniques in both the time and frequency domains have been developed to illuminate subtle modulations related to movement. 
 
@@ -41,7 +41,7 @@ What are brain waves?
 
 
 
-Let's Recap 
+## Let's Recap 
 ======
 
   * Among the oldest brain imaging techniques 
