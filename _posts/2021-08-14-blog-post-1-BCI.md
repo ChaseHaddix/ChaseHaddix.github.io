@@ -12,16 +12,16 @@ tags:
 
 Brain-computer interfaces (BCIs) or alternatively called brain-machine interfaces (BMIs) are systems that translate brain activity into action for some external device (think wheelchair or computer cursor). 
 
-##What's the point of a BCI?
+## What's the point of a BCI?
 ------
   BCIs are designed to collect, process, and translate brain signals into commands for an external device. These systems of human-machine interaction offer applications in various sectors from video gaming to sleep enhancement to control of a prosthetic. The goal of all BCIs is to establish a communication pathway by detecting a specific intention from the user. They represent a direct link between your brain and the outside world. Since BCIs are not necessarily dependent on the peripheral nervous system and muscular system, an obvious application is in motor restoration and rehabilitation. A BCI capable of supplementing or replacing damaged motor pathways would greatly extend the quality of life to that individual. 
 
 
-##What are the different parts of a BCI?
+## What are the different parts of a BCI?
 ------
   While the exact number may depend on what you read, there are really five main parts. 
 
-##Why aren't BCIs used everywhere?
+## Why aren't BCIs used everywhere?
 ------
   A number of challenges prevent BCIs from becoming commonplace in society today. The upfront cost of brain monitoring equipment such as EEG electrodes and amplifiers represent an initial hurdle. Furthermore, recording electrodes must offer high signal-to-noise ratios even outside laboratory settings. But beyond hardware developments, significant strides must be made in BCIs that are able to elicit appropriate brain modulation, extract relevant features, and obtain sufficient prediction accuracy to maintain user acceptance. 
 
