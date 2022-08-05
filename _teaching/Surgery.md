@@ -1,7 +1,7 @@
 ---
 title: "NHP Surgery"
 collection: teaching
-type: "Invasive Lead Implantation and Ressection"
+type: "Invasive Lead Implantation and Explantation"
 permalink: /teaching/Surgery
 venue: "Cleveland Clinic"
 date: 2022-07-25
