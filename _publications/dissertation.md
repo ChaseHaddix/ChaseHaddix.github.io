@@ -2,7 +2,7 @@
 title: "Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications"
 collection: publications
 permalink: /publication/2021-11-8-Haddix
-excerpt: 'This is my doctoral dissertation. **Note** It is under embargo until Nov. 08, 2023. Please contact me directly if you are interested in a copy'
+excerpt: 'This is my doctoral dissertation. **Note** it is under embargo until Nov. 08, 2023. Please contact me directly if you are interested in a copy'
 date: 2021-11-08
 venue: 'University of Kentucky'
 paperurl: 'https://uknowledge.uky.edu/cbme_etds/74/'
