@@ -1,6 +1,6 @@
 ---
 title: "Poster Judge"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Encouraging young scientists and engineers while learning about research not directly related to my own work 1<br/><img src='/images/PosterJudgeCertificate.PNG'>"
 collection: portfolio
 ---
 
