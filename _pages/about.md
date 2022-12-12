@@ -18,6 +18,8 @@ Use the tabs at the top to navigate to the different pages. Please don't hesitat
 
 Enjoy!
 
+________________________________________________________________________________________________________
+
 First off, what is neural engineering?
 ======
 ![First off, what is neural engineering?!](/images/brainHomepage.jpg)
@@ -29,6 +31,8 @@ First off, what is neural engineering?
 Why would anyone want to be a "nervous system engineer"? 
 ======
   From the definition above, it becomes clear you must have a strong background in many different areas to be a successful engineer. This requires a tough courseload in college. But, it can be higly rewarding. Biomedical engineering has consistently been rated among the [top jobs for growth, pay, and satisfaction](https://money.cnn.com/pf/best-jobs/2013/snapshots/1.html) and neural engineering is no exception. The combination of how much there is still to learn about the nervous system coupled with the rate of technological advancements means this burgeoning field will certainly grow for decades to come. 
+
+By developing technologies that can measure and manipulate brain activity with high spatial and temporal resolution, neuroscientists can study the neural basis of various cognitive and motor functions and gain insights into how the brain works. This knowledge can help to develop new treatments for neurological disorders and improve our understanding of the human brain.
 
   It is an exciting prospect to be at a forefront of medical innovation and improvement of outcomes for diseases and disorders that have long been considered permanently debilitating. If you have any questions about this field, please reach out to me and I'd be happy to discuss further!
 
