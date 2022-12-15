@@ -20,6 +20,10 @@ Brain-computer interfaces (BCIs) or alternatively called brain-machine interface
 ## What are the different parts of a BCI?
 ------
   While the exact number may depend on what you read, there are really five main parts. 
+  1. Electrodes or sensors that are placed on the scalp or directly on the brain to record the electrical activity of neurons.
+  2. A computer or other device that processes the signals from the electrodes and translates them into commands for the device being controlled.
+  3. A user interface, such as a screen or keyboard, that allows the user to interact with the system and provide feedback on the output.
+  4. A feedback mechanism, such as a visual or auditory display, that allows the user to see or hear the results of their thoughts and make adjustments to their brain activity if necessary.
 
 ## Why aren't BCIs used everywhere?
 ------
