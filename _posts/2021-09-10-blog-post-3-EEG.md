@@ -27,12 +27,14 @@ Electroencephalography (EEG)
 
 ## How does EEG work?
 ======
+
   The units of EEG measurement are in Volts. As with any voltage measurement, the potential difference is between a recording electrode and a reference electrode. Importantly, EEG is measured between two electrodes. Often times, the reference electrode is either on the forehead (thick skull) or ear lobe (far from brain). EEG leads feed into an amplifier, where the tiny voltages, usually on the nano-volt scale, are amplified before being converted from an analog signal (continuous) into a digital signal (discrete). Sample rates for EEG vary depending on application. The higher the rate, the closer you are to the analog/original signal. But at some costs, including a large amount of data to save. Typically, each EEG electrode/channel is saved at 125 to 1000 Hz, or samples per second. 
   
   Since an electrode is only able to pick up activity over a small part of the brain, dozens or even hundreds of electrodes are needed to tell the whole story about what is going on in the brain, or at least the cortical outer layer. 
 
 ## What are brain waves?
 ======
+
   Brain waves, or brain rhythms, are ways to describe the EEG trace. At first glance, an EEG may seem like a chaotic stream of data lacking any meaningful information. However, signal processing techniques in both the time and frequency domains have been developed to illuminate subtle modulations related to movement. 
 
   As mentioned, EEG electrodes register the summed influence of a large population of neurons. The rhythmic fluctuations in local potentials produce what is known as brain oscillations. EEG registers a blend of different frequency changes over time. Oscillatory behavior reflects changes in cortical excitability. The behavior of a single neuron contributes little to the observed oscillation. Researchers analyzing EEG extract information from these properties via mathematical transforms. Temporal (time) and spectral (frequency) features can reveal information about underlying neuronal activity. It is for these reasons EEG is a suitable vehicle to investigate neuronal activation during voluntary movement. For more detail on how the raw EEG is turned into usable features, see the "Basics of Signal Processing" post.
