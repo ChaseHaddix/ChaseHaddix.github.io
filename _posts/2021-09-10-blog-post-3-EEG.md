@@ -54,7 +54,7 @@ Electroencephalography (EEG)
   * Considered inexpensive (after you buy all the equipment)
   * Able to detect activity across the whole brain
   * Poor quality signal
-      * Susceptible to artifacts like muscle and head motion
+      * Susceptible to artifacts from muscle and head motion
   * Great temporal resolution
       * Can sample hundreds or thousands of times per second
   * Poor spatial resolution
