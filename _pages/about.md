@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chase Haddix - Neural Engineer"
+title: "Chase Haddix - Biomedical Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Welcome to my page! Here, I aim to do three things:
-1. **Educate on all things neuroscience and engineering**
+1. **Educate on all things space, engineering, and neuroscience**
 2. **Tell a little about myself**
 3. **Showcase my research projects and work experiences**
 
 
-Use the tabs at the top to navigate to the different pages. Please don't hesitate to reach out! My social media can be found on the left. 
+Use the tabs at the top to navigate to the different pages. Please don't hesitate to reach out using the links on the left. 
 
 Enjoy!
 
