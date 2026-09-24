@@ -2,17 +2,19 @@
 title: "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm"
 collection: publications
 permalink: /publication/2021-9-01-JNE-Haddix
-excerpt: 'This paper is about using EEG to increase command signals for Brain-machine interfaces'
-date: 2021-9-01
+excerpt: 'This study investigates whether graded levels of motor effort can be decoded from the EEG sensorimotor rhythm for brain-computer interface applications.'
+date: 2021-09-01
 venue: 'Journal of Neural Engineering'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1741-2552/ac23c0/pdf'
-citation: 'Haddix et al. (2021). "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm." <i>Journal of Neural Engineering</i>. 18.'
+paperurl: 'https://doi.org/10.1088/1741-2552/ac23c0'
+citation: 'Haddix et al. (2021). &quot;Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm.&quot; <i>Journal of Neural Engineering</i>. 18(5).'
 ---
-Brain–computer interfaces (BCIs) show promise as a direct line of communication between the brain and the outside world that could benefit those with impaired motor function. But the commands available for BCI operation are often limited by the ability of the decoder to differentiate between the many distinct motor or cognitive tasks that can be visualized or attempted. 
-Here, we attempt to decode the degree of effort in a specific movement task to produce a graded and more flexible command signal with 14 healthy human subjects
-who responded to visual cues by squeezing to different levels of predetermined force, guided by continuous visual feedback, while the EEG and grip force were monitored.  We found that event-related desynchronization (ERD) of the 8–30 Hz mu-beta sensorimotor rhythm of the EEG is separable for different degrees of motor effort. 
-Our results suggest that modeling and interactive feedback based on the intended level of motor effort is feasible. The observed trends suggest that different mechanisms may govern intermediate versus low and high degrees of motor effort. This may have utility in rehabilitative protocols for motor impairments.
 
-[Download paper here](https://iopscience.iop.org/article/10.1088/1741-2552/ac23c0/pdf)
+This study investigates whether different levels of isometric handgrip force can be decoded from electroencephalography (EEG) to provide graded command signals for brain-computer interfaces.
 
-Recommended citation: Haddix et al. (2021). "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm." <i>Journal of Neural Engineering</i>. 18.
+Fourteen healthy participants performed visually guided handgrip movements at different levels of force while EEG and grip force were recorded. Event-related desynchronization of the 8–30 Hz mu-beta sensorimotor rhythm varied with motor effort, demonstrating that EEG contains information that can distinguish different degrees of effort.
+
+The findings support the feasibility of using intended motor effort as a graded control signal and suggest potential applications in brain-computer interfaces and rehabilitation following motor impairment.
+
+[View paper here](https://doi.org/10.1088/1741-2552/ac23c0)
+
+Recommended citation: Haddix et al. (2021). "Prediction of Isometric Handgrip Force from Graded Event-Related Desynchronization of the Sensorimotor Rhythm." <i>Journal of Neural Engineering</i>. 18(5).
