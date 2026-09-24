@@ -8,38 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! Here, I aim to do three things:
-1. **Educate on all things space, engineering, and neuroscience**
-2. **Tell a little about myself**
-3. **Showcase my research projects and work experiences**
+Welcome to my page! I am a biomedical engineer and researcher focused on solving human health and performance problems in challenging environments. My work spans human spaceflight, neuroengineering, physiological monitoring, and medical technology development and evaluation.
+
+Here, I aim to do three things:
+
+Showcase my research projects and professional experiences
+
+Share information about biomedical engineering, human spaceflight, and neurotechnology
+
+Tell a little about myself and the path that brought me here
+
+Use the tabs at the top to explore my research, publications, presentations, outreach activities, and other work. Please don't hesitate to reach out using the links on the left.
+
+What I Do
 
 
-Use the tabs at the top to navigate to the different pages. Please don't hesitate to reach out using the links on the left. 
 
-Enjoy!
+My research sits at the intersection of engineering, medicine, and human performance. I am particularly interested in problems where existing biomedical technologies must move beyond controlled laboratory settings and function reliably in challenging, operational environments.
 
-________________________________________________________________________________________________________
+My work has included brain-computer interfaces, neural signal processing, physiological monitoring, medical device evaluation, and technologies supporting human spaceflight. Although these projects span different physiological systems and applications, they share a common goal: using engineering to better understand human physiology and translate that knowledge into practical technologies that improve human health, performance, and safety.
 
-First off, what is neural engineering?
-======
-![First off, what is neural engineering?!](/images/brainHomepage.jpg)
+Today, much of my work focuses on medical capabilities for human spaceflight. Future exploration missions will take humans farther from Earth, where access to conventional medical infrastructure, equipment, and expertise will be limited. These constraints create unique engineering challenges and provide an opportunity to develop technologies that are smaller, smarter, more autonomous, and more capable. Many of the same technologies developed for these environments also have potential applications in healthcare and other resource-limited or operational settings on Earth.
 
-  Think about how you are able to scroll down this page. What controls your muscles? To extend this even further, what controls your _desire_ to scroll down this page? The answer is the nervous system - the complex network involving your brain, spinal cord, and peripheral nerves. 
+Research Interests
 
-  Neural engineering, a subfield of biomedical engineering, seeks to to _understand_, _repair_, _replace_, or _enhance_ these neural systems with technological innovation. This interdisciplinary research area encompasses techniques from electrical engineering, chemical engineering, mechanical engineering, and neurosciences to improve neurological function and quality of life. 
+My research interests are intentionally broad and driven by the problem rather than by a particular organ system or technology. I am interested in identifying unresolved challenges in human health and performance, determining how they can be measured or addressed, and developing and evaluating technologies that provide practical solutions.
 
-Why would anyone want to be a "nervous system engineer"? 
-======
-  From the definition above, it becomes clear you must have a strong background in many different areas to be a successful engineer. This requires a tough courseload in college. But, it can be higly rewarding. Biomedical engineering has consistently been rated among the [top jobs for growth, pay, and satisfaction](https://money.cnn.com/pf/best-jobs/2013/snapshots/1.html) and neural engineering is no exception. The combination of how much there is still to learn about the nervous system coupled with the rate of technological advancements means this burgeoning field will certainly grow for decades to come. 
+Several areas have been particularly important throughout my work:
 
-By developing technologies that can measure and manipulate brain activity with high spatial and temporal resolution, neuroscientists can study the neural basis of various cognitive and motor functions and gain insights into how the brain works. This knowledge can help to develop new treatments for neurological disorders and improve our understanding of the human brain.
+Human spaceflight and extreme environments — developing and evaluating medical technologies for environments where conventional healthcare resources may be unavailable.
 
-  It is an exciting prospect to be at a forefront of medical innovation and improvement of outcomes for diseases and disorders that have long been considered permanently debilitating. If you have any questions about this field, please reach out to me and I'd be happy to discuss further!
+Neuroengineering and brain-computer interfaces — measuring and decoding neural activity and developing technologies that restore or augment human function.
 
-My story
-------
-  My journey from curious young student to emergent research engineer involved many steps along the way. I learned early on that a solid foundation in science and mathematics would be crucial for success inside and outside the classroom. But even more important is a passion. My biomedical engineering studies took me Purdue University and then to graduate school at the University of Kentucky. During that time, my formal studies were complemented with internships focused on biotechnology, cutting-edge research, and pioneering rehabilitation projects. 
+Physiological monitoring and biosignals — using signals such as EEG, ECG, EMG, PPG, and movement data to understand human physiology and performance.
 
-  Now, I am Postdoctoral Fellow in Brain-Machine Interfaces in the department of Neurosciences at the Cleveland Clinic. Our mission is to combat movement disorders by decoding brain intent and reanimating paralyzed limbs. More on this in the Blog section!
+Medical technology evaluation and translation — determining whether promising technologies can perform reliably outside the laboratory and integrating them into realistic operational workflows.
+
+My Story
+
+My path into biomedical engineering began at Purdue University, where I studied biomedical engineering with a concentration in neural engineering and a minor in psychology. Early research and industry experiences introduced me to biotechnology, medical device development, rehabilitation engineering, and neuroscience and helped establish my interest in applying engineering to human health.
+
+I continued this work at the University of Kentucky, where I earned my PhD in Biomedical Engineering. My doctoral research focused on brain-computer interfaces and the use of electroencephalography (EEG) to measure and decode human movement and motor intent. I worked with healthy participants and clinical populations while developing experimental systems that combined neural, muscular, biomechanical, and other physiological measurements.
+
+Following my PhD, I joined the Cleveland Clinic as a Postdoctoral Fellow in Brain-Machine Interfaces. There, my research expanded into invasive neural interfaces, functional electrical stimulation, neural decoding, biomechanics, and preclinical and human studies aimed at restoring movement after paralysis.
+
+In 2023, I joined the Universities Space Research Association at NASA Glenn Research Center, where I currently work as a Senior Biomedical Engineering Researcher. My work focuses on developing, evaluating, and translating medical technologies for human spaceflight. This has included physiological monitoring systems, portable medical imaging, ground and analog studies, and medical technology demonstrations conducted during commercial spaceflight.
+
+Across each stage of my career, the specific technologies and applications have changed, but the underlying objective has remained consistent: use engineering and research to understand difficult human health problems and develop solutions that work where they are needed.
+
+
 
 ![Where I've Worked!](/images/PlacesIveWorked.PNG)
