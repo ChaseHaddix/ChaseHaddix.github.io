@@ -44,26 +44,72 @@ Research Experience
 * **Undergraduate Researcher** | Purdue University, Central Auditory Processing Laboratory | 2015–2016
   * Conducted undergraduate research in auditory neuroscience and biomedical signal analysis.
   
-Skills
+Additional Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-**[See 'Competencies' tab for more detail](https://chasehaddix.github.io/teaching/)**
+
+* **Heart Transplant Tissue Procurer** | Cleveland Clinic | 2023
+  * Participated in heart transplant procurement procedures and coordinated collection of human cardiac tissue for research applications.
+
+* **Graduate Teaching Assistant, First-Year Engineering** | University of Kentucky | 2017
+  * Taught first-year engineering students through project-based coursework involving Arduino, instrumentation, and MATLAB programming.
+
+* **Research Intern** | Accelerated Rehabilitation Technologies / Washington University in St. Louis | 2015
+  * Developed MATLAB-based signal processing, data visualization, and motion-sensing tools for rehabilitation applications.
+  * Conducted research involving movement biomechanics in individuals with neuromuscular disorders.
+
+* **Development Engineering Co-op** | Zimmer | 2014
+  * Designed, prototyped, and tested orthopedic implants and surgical instruments for bone fracture fixation.
+  * Developed CAD models and experimental protocols for evaluating new product concepts.
+
+* **New Product Development Intern** | Transposagen Biopharmaceuticals | 2013
+  * Supported development and commercialization activities for genetic engineering technologies.
+  * Worked across laboratory research and business development teams.
+
+Technical Competencies
+======
+
+<ul>
+{% for post in site.teaching %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+**[View detailed technical competencies](/teaching/)**
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+**[View all publications](/publications/)**
+
+
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+**[View all presentations](/talks/)**
+
+
+Service, Leadership, and Outreach
 ======
-* Update to pull from Outreach tab
+
+* **Program Lead**, NASA Glenn High School Engineering Institute | 2026
+* **Program Lead**, NASA Glenn / Cleveland State Pre-Apprenticeship and Career Exploration Program | 2026
+* **Poster Judge**, NASA Human Research Program Investigators' Workshop | 2024–2025
+* **Research Mentor** | 2024–Present
+  * Mentor student interns participating in biomedical engineering and human spaceflight research.
+* **Graduate Student Mentor**, University of Kentucky | 2016–2021
+  * Mentored undergraduate researchers in EEG, biosignal analysis, and experimental research.
+
+**[View additional outreach and service activities](/outreach/)**
