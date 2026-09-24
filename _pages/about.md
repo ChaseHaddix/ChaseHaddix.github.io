@@ -22,11 +22,9 @@ ________________________________________________________________________________
 What I Do
 ======
 
-![Biomedical engineering research](/images/brainHomepage.jpg)
-
 My research sits at the intersection of engineering, medicine, and human performance. I am particularly interested in problems where existing biomedical technologies must move beyond controlled laboratory settings and function reliably in challenging, operational environments.
 
-My work has included brain-computer interfaces, neural signal processing, physiological monitoring, medical device evaluation, and technologies supporting human spaceflight. Although these projects span different physiological systems and applications, they share a common goal: **using engineering to better understand human physiology and translate that knowledge into practical technologies that improve human health, performance, and safety.**
+Over the past 15 years, my work has included brain-computer interfaces, neural signal processing, physiological monitoring, medical device evaluation, and technologies supporting human spaceflight. Although these projects span different physiological systems and applications, they share a common goal: **using engineering to better understand human physiology and translate that knowledge into practical technologies that improve human health, performance, and safety.**
 
 Today, much of my work focuses on medical capabilities for human spaceflight. Future exploration missions will take humans farther from Earth, where access to conventional medical infrastructure, equipment, and expertise will be limited. These constraints create unique engineering challenges and provide an opportunity to develop technologies that are smaller, smarter, more autonomous, and more capable. Many of the same technologies developed for these environments also have potential applications in healthcare and other resource-limited or operational settings on Earth.
 
