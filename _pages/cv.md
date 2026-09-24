@@ -8,53 +8,41 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
-* BS in Biomedical Engineering, Purdue University, 2016
-* PhD in Biomedical Engineering, University of Kentucky, 2021
+
+* **PhD, Biomedical Engineering**, University of Kentucky, 2021
+  * Dissertation: *Analysis of Graded Sensorimotor Rhythms for Brain-Computer Interface Applications*
+  * Advisor: Sridhar Sunderam, PhD
+
+* **BS, Biomedical Engineering**, Purdue University, 2016
+  * Concentration: Neural Engineering
+  * Minor: Psychology
+
 
 Research Experience
 ======
-* Fall 2021 - Present: Postdoctoral Fellow in Brain-Machine Interfaces 
-  * Cleveland Clinic, Dept of Neurosciences (PI - Dawn Taylor)
-  * Elucidating the neural code related to co-contraction in upper limb movements for use with functional electrical stimulation (FES)
-  *  Evaluating real-time decoders in non-human primate models
-  *  Optimizing the pre-surgical planning and therapeutic parameters of deep brain stimulation (DBS)
-  *  Creating physiologically-realistic biomechanical models of upper limb movement during FES
 
-* Summer 2016 - Summer 2021: Graduate Research Assistant
-  * University of Kentucky, Neural Systems Lab (PI - Sridhar Sunderam)
-  * Explored optimal methods to promote motor rehabilitation with brain-machine interfaces using motor effort
-  * Constructed algorithms based on feedback from recording devices such as EEG, EMG, force dynamometers
-  * Designed protocols for clinical and non-clinical human studies
+* **Senior Biomedical Engineering Researcher** | NASA Glenn Research Center / Universities Space Research Association | 2023–Present
+  * Lead applied biomedical research supporting medical capabilities for long-duration human spaceflight and exploration.
+  * Develop, evaluate, and translate physiological monitoring and diagnostic technologies across laboratory, operational, analog, and flight environments.
+  * Lead research involving integrated medical devices, portable X-ray systems, physiological monitoring, and human-subject testing.
+  * Collaborate across NASA centers, commercial spaceflight partners, clinical institutions, and academic research groups.
 
-Work experience
-======
-* Fall 2017: Graduate Teaching Assistant
-  * University of Kentucky
-  * Taught (2) courses for first-year students in the College of Engineering
-  * Led students through projects that applied Arduinos, basic instrumentation, and MATLAB programming towards solving real-life problems
+* **Postdoctoral Fellow, Brain-Machine Interfaces** | Cleveland Clinic, Taylor Lab | 2021–2023
+  * Investigated neural control of upper-limb movement using intracortical recordings, electromyography, biomechanical modeling, and functional electrical stimulation.
+  * Developed and evaluated real-time brain-machine interfaces for decoding movement and limb stiffness.
+  * Conducted research involving human and non-human primate neural interfaces, wearable motion sensing, and deep brain stimulation.
+  * Contributed to surgical planning and implantation procedures involving cortical and deep-brain electrodes.
 
-* Summer 2015: Research Intern
-  * Acclerated Rehabilitation Technologies/Washington U. in STL
-  * Programmed in MATLAB for real-time and offline signal processing, data displays, and GUIs
-  * Incorporated signal processing for off-the-shelf motion sensors to construct a rehabilitation software program
-  * Worked with stakeholders to establish and integrate meaningful design metrics
-  * Conducted research quantifying biomechanics of patients with neuromuscular disorders
+* **Graduate Research Assistant** | University of Kentucky, Neural Systems Lab | 2016–2021
+  * Developed brain-machine interface approaches for motor rehabilitation in healthy participants and individuals with neurological impairment.
+  * Designed human-subject experiments and neural decoding methods using EEG, EMG, force measurements, and wearable sensing.
+  * Investigated graded motor effort as a source of continuous control information for brain-computer interfaces.
+  * Mentored undergraduate researchers in EEG, biosignal processing, and experimental methods.
 
-* 2014 (all 12 months): Development Engineering Co-op
-  * Zimmer (now Zimmer Biomet)
-  * Designed, developed, and tested implants and instruments related to bone fracture fixation
-  * Generated prototype models with CAD software to evaluate new design concepts
-  * Constructed comprehensive protocols for testing/analyzing the product
-
-* Summer 2013: New Product Development Intern
-  * Transposagen Biopharmaceuticals 
-  * Collaborated with scientists on the development of new genetic engineering technologies
-  * Assisted vice president of business development on business trips to present seminars on products and services
-  * Participated in weekly meetings with laboratory scientists and business development specialists
-  * Led videoconferences with global clients
+* **Undergraduate Researcher** | Purdue University, Central Auditory Processing Laboratory | 2015–2016
+  * Conducted undergraduate research in auditory neuroscience and biomedical signal analysis.
   
 Skills
 ======
