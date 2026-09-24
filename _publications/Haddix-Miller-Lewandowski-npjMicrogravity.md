@@ -2,7 +2,7 @@
 title: "Assessing Multi-Functional Integrated Medical Device Performance for Future Space Operations"
 collection: publications
 permalink: /publication/Haddix-Miller-Lewandowski-npjMicrogravity
-date: 2026-01-01
+date: 2026-10-01
 venue: 'npj Microgravity — In Review'
 citation: 'Haddix, Miller, and Lewandowski. &quot;Assessing Multi-Functional Integrated Medical Device Performance for Future Space Operations.&quot; <i>npj Microgravity</i>. In review.'
 ---
