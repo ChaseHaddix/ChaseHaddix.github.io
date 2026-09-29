@@ -3,6 +3,7 @@ title: "Computational Modeling & Data Analysis"
 collection: teaching
 type: "Quantitative and Computational Methods"
 permalink: /teaching/computational-modeling
+order: 5
 ---
 
 Experience using computational and quantitative methods to analyze biomedical data, model physiological systems, and extract meaningful information from complex experimental measurements.
