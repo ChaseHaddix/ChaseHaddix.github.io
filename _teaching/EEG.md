@@ -3,6 +3,7 @@ title: "EEG & Neuroengineering"
 collection: teaching
 type: "Neural Engineering and Brain-Computer Interfaces"
 permalink: /teaching/EEG
+order: 4
 ---
 
 Extensive experience in neural engineering, with particular expertise in electroencephalography (EEG), neural signal analysis, and brain-computer interface development.
