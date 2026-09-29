@@ -1,20 +1,14 @@
 ---
-title: "Biomechanical Modeling"
+title: "Computational Modeling & Data Analysis"
 collection: teaching
-type: "Computational Modeling of Limb Movement"
-permalink: /teaching/Biomechanical Modeling
-venue: "Cleveland Clinic"
-date: 2022-02-07
-location: "Cleveland, Ohio"
+type: "Quantitative and Computational Methods"
+permalink: /teaching/computational-modeling
 ---
 
-Replace with info about skill
+Experience using computational and quantitative methods to analyze biomedical data, model physiological systems, and extract meaningful information from complex experimental measurements.
 
-Heading 1
-======
+My work has included biomechanical and musculoskeletal modeling of upper-limb movement, neural and physiological signal analysis, feature extraction, statistical modeling, and the development of algorithms for predicting or classifying physiological states and behaviors.
 
-Heading 2
-======
+I have applied machine-learning methods including logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, and artificial neural networks to biomedical data. Applications have included decoding information from EEG and other physiological measurements and evaluating relationships between measured signals and human performance.
 
-Heading 3
-======
+Across these applications, computational methods serve as tools for answering the underlying biomedical question. I select analytical approaches based on the physiology, experimental design, characteristics of the available data, and intended application rather than treating a particular modeling technique as the objective itself.
