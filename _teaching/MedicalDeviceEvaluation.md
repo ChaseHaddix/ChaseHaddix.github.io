@@ -3,6 +3,7 @@ title: "Medical Device Evaluation & Operational Testing"
 collection: teaching
 type: "Technology Evaluation and Validation"
 permalink: /teaching/medical-device-evaluation
+order: 2
 ---
 
 Experience evaluating biomedical technologies across laboratory, clinical, and operationally relevant environments, with an emphasis on determining whether a system can provide useful and reliable capabilities under real-world constraints.
