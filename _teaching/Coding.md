@@ -3,6 +3,7 @@ title: "Programming & Scientific Computing"
 collection: teaching
 type: "Research Software and Data Analysis"
 permalink: /teaching/programming
+order: 6
 ---
 
 Experience developing computational workflows and research software for biomedical engineering, experimental research, signal processing, and data analysis.
