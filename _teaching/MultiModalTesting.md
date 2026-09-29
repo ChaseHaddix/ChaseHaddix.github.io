@@ -3,6 +3,7 @@ title: "Biomedical Signal Processing & Physiological Monitoring"
 collection: teaching
 type: "Physiological Measurement and Analysis"
 permalink: /teaching/physiological-monitoring
+order: 1
 ---
 
 Experience acquiring, processing, and interpreting physiological signals across laboratory, clinical, and operational research environments.
