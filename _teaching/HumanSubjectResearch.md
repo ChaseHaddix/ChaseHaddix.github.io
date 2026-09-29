@@ -3,6 +3,7 @@ title: "Human-Subject & Translational Research"
 collection: teaching
 type: "Experimental Design and Translational Research"
 permalink: /teaching/human-subject-research
+order: 3
 ---
 
 Experience designing and conducting human-subject research across laboratory, clinical, and operational environments.
