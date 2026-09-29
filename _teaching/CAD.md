@@ -3,6 +3,7 @@ title: "Engineering Design & Prototyping"
 collection: teaching
 type: "Biomedical Engineering Design"
 permalink: /teaching/engineering-design
+order: 7
 ---
 
 Experience applying engineering design principles to the development, adaptation, and evaluation of biomedical technologies and experimental systems.
