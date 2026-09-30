@@ -53,4 +53,4 @@ In 2023, I joined the Universities Space Research Association at NASA Glenn Rese
 
 Across each stage of my career, the specific technologies and applications have changed, but the underlying objective has remained consistent: **use engineering and research to understand difficult human health problems and develop solutions that work where they are needed.**
 
-![Where I've Worked!](/images/PlacesIveWorked.PNG)
+![Where I've Worked!](/images/PlacesIveWorked.png)
