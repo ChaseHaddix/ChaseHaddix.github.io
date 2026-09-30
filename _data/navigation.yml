@@ -1,20 +1,18 @@
-# main links links
 main:
-  - title: "Blog"
-    url: /blog/
-    
   - title: "Publications"
-    url: /publications/      
-    
+    url: /publications/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Competencies"
-    url: /teaching/ 
-  
-  - title: "Outreach"
+    url: /teaching/
+
+  - title: "Leadership & Outreach"
     url: /portfolio/
-  
-  - title: "Past Presentations"
-    url: /talks/ 
-    
+
+  - title: "Talks & Presentations"
+    url: /talks/
+
+  - title: "Media"
+    url: /media/
