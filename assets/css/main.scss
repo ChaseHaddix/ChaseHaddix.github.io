@@ -39,3 +39,26 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Improved heading hierarchy */
+
+.page__content h2 {
+  color: #243b53;
+  font-weight: 700;
+  padding-bottom: 0.45em;
+  border-bottom: 3px solid #2563a6;
+  margin-top: 2em;
+}
+
+.page__content h3 {
+  color: #243b53;
+  font-weight: 700;
+  margin-top: 1.7em;
+  margin-bottom: 0.6em;
+}
+
+.archive__item-title {
+  font-weight: 700;
+  margin-top: 1.5em;
+}
