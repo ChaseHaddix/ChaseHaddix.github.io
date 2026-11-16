@@ -63,3 +63,16 @@
   font-weight: 700;
   margin-top: 1.5em;
 }
+
+
+/* CV and other archive page section headings */
+
+.archive > h1:not(.page__title) {
+  color: #243b53;
+  font-weight: 700;
+  padding-bottom: 0.45em;
+  border-bottom: 3px solid #2563a6;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
