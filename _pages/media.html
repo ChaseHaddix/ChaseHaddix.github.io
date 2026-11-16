@@ -7,99 +7,182 @@ author_profile: true
 
 {% include base_path %}
 
-<p>
-My research and engineering work has been featured through news stories,
-institutional communications, interviews, and other public-facing media.
-This page collects selected coverage of projects and research I have
-contributed to throughout my career.
-</p>
+<style>
+/* Styles scoped to the Media page; no edits to main.scss are required. */
+.media-page .media-section-title {
+  color: #243b53;
+  border-bottom: 2px solid #2563a6;
+  padding-bottom: .45rem;
+  margin: 2.1rem 0 1.1rem;
+}
+.media-page .media-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.35rem;
+  padding: 1.35rem 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+.media-page .media-logo {
+  width: 120px;
+  min-width: 120px;
+  height: 100px;
+  box-sizing: border-box;
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.media-page .media-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.media-page .media-logo-fallback {
+  display: none;
+  color: #243b53;
+  font-size: .9rem;
+  font-weight: 700;
+  text-align: center;
+}
+.media-page .media-details { min-width: 0; flex: 1; }
+.media-page .media-publisher {
+  margin: 0 0 .3rem;
+  color: #52687a;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+.media-page .media-title {
+  margin: 0 0 .3rem;
+  font-size: 1.12rem;
+  line-height: 1.35;
+  font-weight: 700;
+  color: #243b53;
+  border: none;
+  padding: 0;
+}
+.media-page .media-date { margin: 0 0 .7rem; color: #637283; font-size: .87rem; }
+.media-page .media-description { margin: 0 0 .8rem; line-height: 1.6; }
+.media-page .media-link { font-weight: 600; }
+@media (max-width: 540px) {
+  .media-page .media-card { gap: .85rem; }
+  .media-page .media-logo {
+    width: 78px; min-width: 78px; height: 78px; padding: 9px;
+  }
+  .media-page .media-title { font-size: 1rem; }
+}
+</style>
 
+<div class="media-page">
+  <p>
+    My research and engineering work has been featured through news stories,
+    institutional communications, interviews, and other public-facing media.
+    This page collects selected coverage of projects and research I have
+    contributed to throughout my career.
+  </p>
 
-<h2>Research & Technology</h2>
+  <h2 class="media-section-title">Research &amp; Technology</h2>
 
+  <article class="media-card">
+    <div class="media-logo">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/NASA_logo.svg"
+           alt="NASA logo" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+      <span class="media-logo-fallback">NASA</span>
+    </div>
+    <div class="media-details">
+      <p class="media-publisher">NASA</p>
+      <h3 class="media-title">NASA Glenn Tests Mini-X-Ray Technology to Advance Space Health Care</h3>
+      <p class="media-date">September 2025</p>
+      <p class="media-description">NASA featured our work evaluating portable X-ray systems for future
+        long-duration space missions. The article discusses potential medical and
+        engineering applications of compact radiography and the work being conducted
+        at NASA Glenn with clinical and technical collaborators.</p>
+      <a class="media-link" href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-tests-mini-x-ray-technology-to-advance-space-health-care/">Read the NASA feature</a>
+    </div>
+  </article>
 
-<h3>NASA | NASA Glenn Tests Mini-X-Ray Technology to Advance Space Health Care</h3>
-<p><em>September 2025</em></p>
+  <article class="media-card">
+    <div class="media-logo">
+      <img src="https://www.google.com/s2/favicons?domain=newsroom.usra.edu&amp;sz=128"
+           alt="USRA logo" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+      <span class="media-logo-fallback">USRA</span>
+    </div>
+    <div class="media-details">
+      <p class="media-publisher">USRA</p>
+      <h3 class="media-title">USRA Staff Helps NASA Glenn Pioneer Mini X-Ray Technology to Advance Space Health Care</h3>
+      <p class="media-date">October 2025</p>
+      <p class="media-description">USRA highlighted my involvement in NASA Glenn's evaluation of handheld X-ray
+        technology for future exploration missions. The work examines whether compact
+        radiography systems can support both medical diagnostics and technical
+        inspection needs during missions far from Earth.</p>
+      <a class="media-link" href="https://newsroom.usra.edu/usra-staff-helps-nasa-glenn-pioneer-mini-xray-technology-to-advance-space-health-care/">Read the USRA feature</a>
+    </div>
+  </article>
 
-<p>
-NASA featured our work evaluating portable X-ray systems for future
-long-duration space missions. The article discusses potential medical and
-engineering applications of compact radiography and the work being conducted
-at NASA Glenn with clinical and technical collaborators.
-</p>
+  <article class="media-card">
+    <div class="media-logo">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/WEWS-TV_logo_(2021).svg"
+           alt="News 5 Cleveland logo" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+      <span class="media-logo-fallback">News 5</span>
+    </div>
+    <div class="media-details">
+      <p class="media-publisher">News 5 Cleveland</p>
+      <h3 class="media-title">NASA Glenn Partners with University Hospitals and Tri-C to Test Mini X-Ray Technology for Use in Space</h3>
+      <p class="media-date">2025</p>
+      <p class="media-description">News 5 Cleveland covered our work evaluating portable X-ray technology for
+        future spaceflight applications. I spoke with the station about the project
+        and the potential value of compact medical imaging capabilities during
+        exploration missions.</p>
+      <a class="media-link" href="https://www.news5cleveland.com/news/local-news/nasa-glenn-partners-with-university-hospitals-and-tri-c-to-test-mini-x-ray-technology-for-use-in-space">View the News 5 Cleveland story</a>
+    </div>
+  </article>
 
-<p>
-<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-tests-mini-x-ray-technology-to-advance-space-health-care/">
-Read the NASA feature
-</a>
-</p>
+  <article class="media-card">
+    <div class="media-logo">
+      <img src="https://www.google.com/s2/favicons?domain=emotiv.com&amp;sz=128"
+           alt="EMOTIV logo" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+      <span class="media-logo-fallback">EMOTIV</span>
+    </div>
+    <div class="media-details">
+      <p class="media-publisher">EMOTIV</p>
+      <h3 class="media-title">NeuroDiscovery Grant Research Feature</h3>
+      <p class="media-date">2026</p>
+      <p class="media-description">EMOTIV featured my NeuroDiscovery Grant project investigating cognitive
+        workload and fatigue during simulated mission procedures. The study uses
+        portable EEG to explore brain-based measures that may help characterize
+        performance under demanding operational conditions, with potential
+        applications both in spaceflight and on Earth.</p>
+      <a class="media-link" href="https://www.linkedin.com/posts/emotiv_what-does-cognitive-overload-look-like-in-activity-7496559247502016513--VvM">View the EMOTIV feature</a>
+    </div>
+  </article>
 
+  <h2 class="media-section-title">STEM &amp; Community</h2>
 
-<h3>USRA | USRA Staff Helps NASA Glenn Pioneer Mini X-Ray Technology to Advance Space Health Care</h3>
-<p><em>October 2025</em></p>
-
-<p>
-USRA highlighted my involvement in NASA Glenn's evaluation of handheld X-ray
-technology for future exploration missions. The work examines whether compact
-radiography systems can support both medical diagnostics and technical
-inspection needs during missions far from Earth.
-</p>
-
-<p>
-<a href="https://newsroom.usra.edu/usra-staff-helps-nasa-glenn-pioneer-mini-xray-technology-to-advance-space-health-care/">
-Read the USRA feature
-</a>
-</p>
-
-
-<h3>News 5 Cleveland | NASA Glenn Partners with University Hospitals and Tri-C to Test Mini X-Ray Technology for Use in Space</h3>
-<p><em>2025</em></p>
-
-<p>
-News 5 Cleveland covered our work evaluating portable X-ray technology for
-future spaceflight applications. I spoke with the station about the project
-and the potential value of compact medical imaging capabilities during
-exploration missions.
-</p>
-
-<p>
-<a href="https://www.news5cleveland.com/news/local-news/nasa-glenn-partners-with-university-hospitals-and-tri-c-to-test-mini-x-ray-technology-for-use-in-space">
-View the News 5 Cleveland story
-</a>
-</p>
-
-
-<h3>EMOTIV | NeuroDiscovery Grant Research Feature</h3>
-<p><em>2026</em></p>
-
-<p>
-EMOTIV featured my NeuroDiscovery Grant project investigating cognitive
-workload and fatigue during simulated mission procedures. The study uses
-portable EEG to explore brain-based measures that may help characterize
-performance under demanding operational conditions, with potential
-applications both in spaceflight and on Earth.
-</p>
-
-<p>
-<a href="https://www.linkedin.com/posts/emotiv_what-does-cognitive-overload-look-like-in-activity-7496559247502016513--VvM">
-View the EMOTIV feature
-</a>
-</p>
-<h2>STEM & Community</h2>
-
-<h3>Spectrum News 1 | NASA Targets Students in a Push for New Talent</h3>
-<p><em>August 2026</em></p>
-
-<p>
-Spectrum News 1 visited NASA Glenn's High School Engineering Institute to
-highlight how the program gives high school students hands-on experience
-solving engineering challenges connected to NASA missions. I served as a
-program lead for the 2026 Institute and was featured in the accompanying
-video segment while working with students during the program.
-</p>
-
-<p>
-<a href="https://spectrumnews1.com/oh/columbus/news/2026/08/02/nasa-targets-students-in-a-push-for-new-talent">
-Watch the Spectrum News 1 story
-</a>
-</p>
+  <article class="media-card">
+    <div class="media-logo">
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Spectrum_News_1_(2023).svg"
+           alt="Spectrum News 1 logo" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='block';">
+      <span class="media-logo-fallback">Spectrum<br>News 1</span>
+    </div>
+    <div class="media-details">
+      <p class="media-publisher">Spectrum News 1</p>
+      <h3 class="media-title">NASA Targets Students in a Push for New Talent</h3>
+      <p class="media-date">August 2026</p>
+      <p class="media-description">Spectrum News 1 visited NASA Glenn's High School Engineering Institute to
+        highlight how the program gives high school students hands-on experience
+        solving engineering challenges connected to NASA missions. I served as a
+        program lead for the 2026 Institute and was featured in the accompanying
+        video segment while working with students during the program.</p>
+      <a class="media-link" href="https://spectrumnews1.com/oh/columbus/news/2026/08/02/nasa-targets-students-in-a-push-for-new-talent">Watch the Spectrum News 1 story</a>
+    </div>
+  </article>
+</div>
