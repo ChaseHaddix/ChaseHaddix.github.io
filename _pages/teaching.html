@@ -7,8 +7,49 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_competencies = site.teaching | sort: "order" %}
+<style>
+  /* Scoped to the competencies overview only */
+  .competencies-overview { margin-top: 1.2rem; }
+  .competencies-intro { color: #506174; line-height: 1.65; max-width: 46rem; margin-bottom: 1.5rem; }
+  .competencies-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+  .competency-card { border: 1px solid #dbe3eb; border-radius: 10px; background: #fff; padding: 1.2rem; box-shadow: 0 2px 10px rgba(24, 49, 77, .045); display: flex; flex-direction: column; min-width: 0; }
+  .competency-card-top { display: flex; align-items: flex-start; gap: .75rem; margin-bottom: .8rem; }
+  .competency-mark { flex: 0 0 3.2rem; height: 3.2rem; border-radius: 9px; background: #eaf2fb; border: 1px solid #d2e4f5; color: #245b91; display: flex; align-items: center; justify-content: center; font-size: .78rem; font-weight: 800; letter-spacing: .015em; }
+  .competency-card h2 { margin: 0; padding: 0; border: 0; font-size: 1.08rem; line-height: 1.3; font-weight: 700; color: #243b53; }
+  .competency-card h2 a { color: inherit; text-decoration: none; }
+  .competency-card h2 a:hover, .competency-card h2 a:focus { color: #2563a6; text-decoration: underline; }
+  .competency-card p { font-size: .9rem; line-height: 1.6; color: #4b5b6a; margin: 0 0 1rem; flex: 1; }
+  .competency-card .competency-more { align-self: flex-start; font-size: .83rem; font-weight: 700; color: #2563a6; text-decoration: none; }
+  .competency-card .competency-more:hover, .competency-card .competency-more:focus { text-decoration: underline; }
+  @media (max-width: 800px) { .competencies-grid { grid-template-columns: 1fr; } }
+</style>
 
-{% for post in sorted_competencies %}
-  {% include archive-single.html %}
-{% endfor %}
+<section class="competencies-overview" aria-label="Technical competencies overview">
+  <p class="competencies-intro">
+    My technical expertise spans physiological measurement, neuroengineering, biomedical technology evaluation,
+    quantitative analysis, and translational research. Select a competency to read more about my experience and approach.
+  </p>
+
+  {% assign sorted_competencies = site.teaching | sort: "order" %}
+  <div class="competencies-grid">
+    {% for post in sorted_competencies %}
+      {% assign mark = "BIO" %}
+      {% if post.title contains "Signal Processing" %}{% assign mark = "SIG" %}
+      {% elsif post.title contains "Medical Device" %}{% assign mark = "DEV" %}
+      {% elsif post.title contains "Human-Subject" %}{% assign mark = "HUM" %}
+      {% elsif post.title contains "Neuroengineering" %}{% assign mark = "EEG" %}
+      {% elsif post.title contains "Modeling" %}{% assign mark = "MOD" %}
+      {% elsif post.title contains "Programming" %}{% assign mark = "CODE" %}
+      {% elsif post.title contains "Prototyping" %}{% assign mark = "ENG" %}
+      {% endif %}
+      <article class="competency-card">
+        <div class="competency-card-top">
+          <div class="competency-mark" aria-hidden="true">{{ mark }}</div>
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        </div>
+        <p>{{ post.excerpt | default: post.description | strip_html | normalize_whitespace }}</p>
+        <a class="competency-more" href="{{ post.url | relative_url }}" aria-label="Read more about {{ post.title | escape }}">Explore competency &rarr;</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>
